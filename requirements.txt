@@ -1,0 +1,6 @@
+numpy
+opencv-python
+pandas
+dlib
+tqdm
+requests
